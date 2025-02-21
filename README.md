@@ -1,4 +1,4 @@
 # firstdemo
 THis is my first Github Repository
 <br><br>
-Author - Kushal Patel
+Author - Kushal Patel, Kushal Patel
